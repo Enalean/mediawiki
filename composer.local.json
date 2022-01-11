@@ -1,0 +1,13 @@
+{
+	"repositories": [{
+		"type": "vcs",
+		"url": "https://github.com/wikimedia/mediawiki-extensions-TuleapIntegration"
+	},{
+		"type": "vcs",
+		"url": "https://github.com/wikimedia/mediawiki-skins-TuleapSkin"
+	}],
+	"require": {
+		"mediawiki/tuleap-integration": "dev-master",
+		"mediawiki/tuleap-skin": "dev-master"
+	}
+}
